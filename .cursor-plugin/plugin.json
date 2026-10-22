@@ -1,7 +1,7 @@
 {
   "name": "plaindocs",
   "displayName": "PlainDocs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Free helper that lets your AI assistant write clear, easy-to-read guides, how-to steps and help pages, then check them against a simple writing checklist so nothing confusing slips through.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
