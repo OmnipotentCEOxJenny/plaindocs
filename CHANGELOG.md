@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2 (2026-10-23)
+- `keywords.md` and the README keyword line now show the universals as PlainDocs, JennyEcho and OmnipotentCeo, matching the manifest (they still showed the old lowercase forms). No behavior changes.
+- Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
+
 ## 1.0.1 (2026-10-22)
 - Fix: a compiled Python cache file (`scripts/__pycache__/*.pyc`) was committed by mistake and changed every time the tests ran. Removed it from the repo and added a `.gitignore` for `__pycache__/` and `*.pyc`.
 - No behavior changes.

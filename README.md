@@ -30,7 +30,7 @@ Install from this repository: https://github.com/OmnipotentCEOxJenny/plaindocs (
 3. Compare with `examples/worked-example.md`.
 
 ## Search keywords
-plaindocs, jennyecho, omnipotentceo, readme, readmes, guides, explainer, instructions, manuals, manual, faq, faqs, docs, writing, rewriting, rewrite, readability, clarity, concise, conciseness, jargon, wordiness, sentences, paragraphs, headings, checklist, editing, revision, proofread, style, copyediting, usability, onboarding, tutorials, walkthrough, steps, warnings, simplify, comprehension, simplicity. The full list with plain-word meanings is in [keywords.md](keywords.md).
+PlainDocs, JennyEcho, OmnipotentCeo, readme, readmes, guides, explainer, instructions, manuals, manual, faq, faqs, docs, writing, rewriting, rewrite, readability, clarity, concise, conciseness, jargon, wordiness, sentences, paragraphs, headings, checklist, editing, revision, proofread, style, copyediting, usability, onboarding, tutorials, walkthrough, steps, warnings, simplify, comprehension, simplicity. The full list with plain-word meanings is in [keywords.md](keywords.md).
 
 ## Credits
 - Inventor and publisher: Rob Domaine / Omnipotent Media LLC

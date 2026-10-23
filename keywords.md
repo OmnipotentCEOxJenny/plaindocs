@@ -1,12 +1,12 @@
 # PlainDocs search keywords
 
-The same 40 keywords are stored in `.cursor-plugin/plugin.json` (`keywords`). They follow Rob's keyword rules (Oct 22, 2026): lowercase, no hyphens, specific to PlainDocs; the only shared ones are plaindocs, jennyecho and omnipotentceo. Single words are used until Rob confirms how multi-word terms are written.
+The same 40 keywords are stored in `.cursor-plugin/plugin.json` (`keywords`). They follow Rob's keyword rules (Oct 22, 2026): single words lowercase, joined words PascalCase, no hyphens, spaces or commas, specific to PlainDocs; the only shared ones are PlainDocs, JennyEcho and OmnipotentCeo.
 
 | Keyword | In plain words |
 |---|---|
-| plaindocs | This plugin's name |
-| jennyecho | The builder, Jenny Echo |
-| omnipotentceo | Rob Domaine, CEO of Omnipotent Media |
+| PlainDocs | This plugin's name |
+| JennyEcho | The builder, Jenny Echo |
+| OmnipotentCeo | Rob Domaine, CEO of Omnipotent Media |
 | readme | A project's front page |
 | readmes | More than one README |
 | guides | Guides people follow |
