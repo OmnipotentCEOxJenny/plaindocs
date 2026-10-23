@@ -5,6 +5,8 @@
 The plugin's AI instructions tell it to answer in the user's language and keep commands, file names and code unchanged.
 
 ## Español (`es`)
+_Traducción automática, no revisada por un hablante nativo. La versión en inglés es la oficial._
+
 **PlainDocs**
 
 PlainDocs ayuda a tu asistente de IA a escribir guías, pasos y páginas de ayuda claras y fáciles de leer, y luego las revisa con una lista de control sencilla.
@@ -16,6 +18,8 @@ PlainDocs ayuda a tu asistente de IA a escribir guías, pasos y páginas de ayud
 - No publicado en el marketplace.
 
 ## Français (`fr`)
+_Traduction automatique, non relue par un locuteur natif. La version anglaise fait foi._
+
 **PlainDocs**
 
 PlainDocs aide votre assistant IA à rédiger des guides, des étapes et des pages d'aide clairs et faciles à lire, puis les vérifie avec une liste de contrôle simple.
@@ -27,6 +31,8 @@ PlainDocs aide votre assistant IA à rédiger des guides, des étapes et des pag
 - Non soumis au marketplace.
 
 ## Português (`pt`)
+_Tradução automática, não revisada por um falante nativo. A versão em inglês é a oficial._
+
 **PlainDocs**
 
 O PlainDocs ajuda seu assistente de IA a escrever guias, passos e páginas de ajuda claros e fáceis de ler, e depois os confere com uma lista de verificação simples.
@@ -38,6 +44,8 @@ O PlainDocs ajuda seu assistente de IA a escrever guias, passos e páginas de aj
 - Não enviado ao marketplace.
 
 ## Deutsch (`de`)
+_Maschinelle Übersetzung, nicht von Muttersprachlern geprüft. Maßgeblich ist die englische Fassung._
+
 **PlainDocs**
 
 PlainDocs hilft Ihrem KI-Assistenten, klare, leicht lesbare Anleitungen, Schritte und Hilfeseiten zu schreiben, und prüft sie dann mit einer einfachen Checkliste.
@@ -49,6 +57,8 @@ PlainDocs hilft Ihrem KI-Assistenten, klare, leicht lesbare Anleitungen, Schritt
 - Nicht im Marketplace eingereicht.
 
 ## Italiano (`it`)
+_Traduzione automatica, non revisionata da un madrelingua. Fa fede la versione inglese._
+
 **PlainDocs**
 
 PlainDocs aiuta il tuo assistente IA a scrivere guide, passaggi e pagine di aiuto chiari e facili da leggere, poi li controlla con una semplice lista di verifica.
@@ -60,6 +70,8 @@ PlainDocs aiuta il tuo assistente IA a scrivere guide, passaggi e pagine di aiut
 - Non inviato al marketplace.
 
 ## Nederlands (`nl`)
+_Machinevertaling, niet nagekeken door een moedertaalspreker. De Engelse versie is leidend._
+
 **PlainDocs**
 
 PlainDocs helpt je AI-assistent duidelijke, makkelijk leesbare handleidingen, stappen en helppagina's te schrijven en controleert ze daarna met een eenvoudige checklist.
@@ -71,6 +83,8 @@ PlainDocs helpt je AI-assistent duidelijke, makkelijk leesbare handleidingen, st
 - Niet ingediend bij de marketplace.
 
 ## Polski (`pl`)
+_Tłumaczenie maszynowe, niesprawdzone przez rodzimego użytkownika języka. Wiążąca jest wersja angielska._
+
 **PlainDocs**
 
 PlainDocs pomaga asystentowi AI pisać jasne, łatwe do czytania poradniki, instrukcje i strony pomocy, a potem sprawdza je prostą listą kontrolną.
@@ -82,6 +96,8 @@ PlainDocs pomaga asystentowi AI pisać jasne, łatwe do czytania poradniki, inst
 - Nie zgłoszony do marketplace.
 
 ## Русский (`ru`)
+_Машинный перевод, не проверен носителем языка. Основной является английская версия._
+
 **PlainDocs**
 
 PlainDocs помогает ИИ-ассистенту писать понятные и простые руководства, инструкции и страницы справки, а затем проверяет их по простому контрольному списку.
@@ -93,6 +109,8 @@ PlainDocs помогает ИИ-ассистенту писать понятны
 - Не отправлен в marketplace.
 
 ## Українська (`uk`)
+_Машинний переклад, не перевірений носієм мови. Основною є англійська версія._
+
 **PlainDocs**
 
 PlainDocs допомагає ШІ-асистенту писати зрозумілі й прості посібники, інструкції та сторінки довідки, а потім перевіряє їх за простим контрольним списком.
@@ -104,6 +122,8 @@ PlainDocs допомагає ШІ-асистенту писати зрозумі
 - Не подано до marketplace.
 
 ## Türkçe (`tr`)
+_Makine çevirisidir, anadili bu dil olan biri tarafından incelenmemiştir. Geçerli olan İngilizce sürümdür._
+
 **PlainDocs**
 
 PlainDocs, yapay zekâ asistanınızın açık ve kolay okunur kılavuzlar, adımlar ve yardım sayfaları yazmasına yardım eder, sonra bunları basit bir kontrol listesiyle denetler.
@@ -115,6 +135,8 @@ PlainDocs, yapay zekâ asistanınızın açık ve kolay okunur kılavuzlar, adı
 - Marketplace'e gönderilmedi.
 
 ## العربية (`ar`)
+_ترجمة آلية لم يراجعها متحدث أصلي. النسخة الإنجليزية هي المعتمدة._
+
 **PlainDocs**
 
 يساعد PlainDocs مساعد الذكاء الاصطناعي على كتابة أدلة وخطوات وصفحات مساعدة واضحة وسهلة القراءة، ثم يراجعها بقائمة تحقق بسيطة.
@@ -126,6 +148,8 @@ PlainDocs, yapay zekâ asistanınızın açık ve kolay okunur kılavuzlar, adı
 - لم يُقدَّم إلى السوق (marketplace).
 
 ## עברית (`he`)
+_תרגום מכונה שלא נבדק על ידי דובר שפת אם. הגרסה האנגלית היא המחייבת._
+
 **PlainDocs**
 
 PlainDocs עוזר לעוזר הבינה המלאכותית שלך לכתוב מדריכים, שלבים ודפי עזרה ברורים וקלים לקריאה, ואז בודק אותם מול רשימת בדיקה פשוטה.
@@ -137,6 +161,8 @@ PlainDocs עוזר לעוזר הבינה המלאכותית שלך לכתוב מ
 - לא הוגש ל-marketplace.
 
 ## فارسی (`fa`)
+_ترجمه ماشینی است و توسط گویشور بومی بازبینی نشده است. نسخه انگلیسی معتبر است._
+
 **PlainDocs**
 
 PlainDocs به دستیار هوش مصنوعی شما کمک می‌کند راهنماها، مراحل و صفحه‌های راهنمای روشن و ساده بنویسد و سپس آن‌ها را با یک فهرست بررسی ساده می‌سنجد.
@@ -148,6 +174,8 @@ PlainDocs به دستیار هوش مصنوعی شما کمک می‌کند را
 - به marketplace ارسال نشده.
 
 ## हिन्दी (`hi`)
+_यह मशीनी अनुवाद है, किसी मूल भाषी ने इसकी समीक्षा नहीं की है। अंग्रेज़ी संस्करण ही प्रामाणिक है।_
+
 **PlainDocs**
 
 PlainDocs आपके AI सहायक को साफ़ और आसानी से पढ़ी जाने वाली गाइड, चरण और सहायता पेज लिखने में मदद करता है, फिर उन्हें एक सरल चेकलिस्ट से जाँचता है।
@@ -159,6 +187,8 @@ PlainDocs आपके AI सहायक को साफ़ और आसा�
 - marketplace में जमा नहीं किया गया।
 
 ## বাংলা (`bn`)
+_এটি যন্ত্র-অনুবাদ, কোনো মাতৃভাষী এটি পর্যালোচনা করেননি। ইংরেজি সংস্করণটিই প্রামাণিক।_
+
 **PlainDocs**
 
 PlainDocs আপনার AI সহকারীকে পরিষ্কার, সহজে পড়া যায় এমন গাইড, ধাপ ও সহায়তা পাতা লিখতে সাহায্য করে, তারপর একটি সহজ চেকলিস্ট দিয়ে যাচাই করে।
@@ -170,6 +200,8 @@ PlainDocs আপনার AI সহকারীকে পরিষ্কার, 
 - marketplace-এ জমা দেওয়া হয়নি।
 
 ## اردو (`ur`)
+_یہ مشینی ترجمہ ہے، کسی اہلِ زبان نے اس کا جائزہ نہیں لیا۔ انگریزی ورژن ہی مستند ہے۔_
+
 **PlainDocs**
 
 PlainDocs آپ کے AI اسسٹنٹ کو صاف اور آسانی سے پڑھی جانے والی گائیڈز، مراحل اور مدد کے صفحات لکھنے میں مدد دیتا ہے، پھر انہیں ایک سادہ چیک لسٹ سے جانچتا ہے۔
@@ -181,6 +213,8 @@ PlainDocs آپ کے AI اسسٹنٹ کو صاف اور آسانی سے پڑھی 
 - marketplace میں جمع نہیں کیا گیا۔
 
 ## 简体中文 (`zh-Hans`)
+_机器翻译，未经母语人士审校。以英文版本为准。_
+
 **PlainDocs**
 
 PlainDocs 帮助你的 AI 助手写出清晰易读的指南、操作步骤和帮助页面，然后用一份简单的写作清单进行检查。
@@ -192,6 +226,8 @@ PlainDocs 帮助你的 AI 助手写出清晰易读的指南、操作步骤和帮
 - 未提交到 marketplace。
 
 ## 日本語 (`ja`)
+_機械翻訳であり、ネイティブスピーカーによる確認は受けていません。英語版が正式な版です。_
+
 **PlainDocs**
 
 PlainDocs は、AI アシスタントがわかりやすく読みやすいガイド、手順、ヘルプページを書けるようにし、簡単なチェックリストで確認します。
@@ -203,6 +239,8 @@ PlainDocs は、AI アシスタントがわかりやすく読みやすいガイ�
 - marketplace には未提出です。
 
 ## 한국어 (`ko`)
+_기계 번역이며 원어민의 검토를 받지 않았습니다. 영어판이 공식 버전입니다._
+
 **PlainDocs**
 
 PlainDocs는 AI 도우미가 명확하고 읽기 쉬운 안내서, 단계별 설명, 도움말 페이지를 쓰도록 돕고, 간단한 체크리스트로 검토합니다.
@@ -214,6 +252,8 @@ PlainDocs는 AI 도우미가 명확하고 읽기 쉬운 안내서, 단계별 설
 - marketplace에 제출하지 않았습니다.
 
 ## Bahasa Indonesia (`id`)
+_Terjemahan mesin, belum ditinjau oleh penutur asli. Versi bahasa Inggris adalah versi yang berlaku._
+
 **PlainDocs**
 
 PlainDocs membantu asisten AI Anda menulis panduan, langkah, dan halaman bantuan yang jelas dan mudah dibaca, lalu memeriksanya dengan daftar periksa sederhana.
@@ -225,6 +265,8 @@ PlainDocs membantu asisten AI Anda menulis panduan, langkah, dan halaman bantuan
 - Belum diajukan ke marketplace.
 
 ## Tiếng Việt (`vi`)
+_Bản dịch máy, chưa được người bản ngữ kiểm tra. Bản tiếng Anh là bản chính thức._
+
 **PlainDocs**
 
 PlainDocs giúp trợ lý AI của bạn viết hướng dẫn, các bước và trang trợ giúp rõ ràng, dễ đọc, rồi kiểm tra bằng một danh sách kiểm tra đơn giản.
@@ -236,6 +278,8 @@ PlainDocs giúp trợ lý AI của bạn viết hướng dẫn, các bước và
 - Chưa gửi lên marketplace.
 
 ## Kiswahili (`sw`)
+_Tafsiri ya mashine, haijakaguliwa na mzungumzaji asilia. Toleo la Kiingereza ndilo rasmi._
+
 **PlainDocs**
 
 PlainDocs husaidia msaidizi wako wa AI kuandika miongozo, hatua na kurasa za msaada zilizo wazi na rahisi kusoma, kisha huzikagua kwa orodha rahisi ya ukaguzi.
@@ -247,6 +291,8 @@ PlainDocs husaidia msaidizi wako wa AI kuandika miongozo, hatua na kurasa za msa
 - Haijawasilishwa kwenye marketplace.
 
 ## Tagalog / Filipino (`tl`)
+_Makina ang nagsalin nito at hindi pa nasusuri ng katutubong tagapagsalita. Ang bersyong Ingles ang opisyal._
+
 **PlainDocs**
 
 Tinutulungan ng PlainDocs ang iyong AI assistant na sumulat ng malinaw at madaling basahing gabay, hakbang at help page, saka sinusuri ang mga ito gamit ang simpleng checklist.
