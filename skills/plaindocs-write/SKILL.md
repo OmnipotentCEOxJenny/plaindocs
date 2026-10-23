@@ -5,7 +5,7 @@ description: Write a clear, plain-language guide, README, how-to or help page fo
 
 # Write a plain-language document
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language.
+Follow `rules/scope.mdc`. Answer in the user's language.
 
 1. **Audience and purpose first.** Ask (or state your assumption): who reads it, what they already know, and what they need to do after reading. Match words to that reader: general readers need simple descriptions, not jargon.
 2. **Say the point at the top.** One or two sentences: what this is, who it is for, what it achieves, and the time or skill needed. Skip needless history.

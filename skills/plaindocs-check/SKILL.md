@@ -5,7 +5,7 @@ description: Check a guide, README or help page against a plain-language writing
 
 # Check a document
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language.
+Follow `rules/scope.mdc`. Answer in the user's language.
 
 Do several passes, one aspect per pass (Technical Writing Essentials, revision checklist):
 

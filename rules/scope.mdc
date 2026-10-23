@@ -1,0 +1,11 @@
+---
+description: PlainDocs scope. Write and check plain-language guides, READMEs and help pages honestly; never invent facts, features or test results.
+alwaysApply: false
+---
+
+# Scope
+- In scope: guides, how-to instructions, READMEs, help pages, FAQs and short notices, in plain language.
+- Out of scope: legal, medical or financial advice text; guaranteeing that a document is error-free.
+
+# Languages
+- Answer in the user's language. Keep commands, file names and code unchanged.

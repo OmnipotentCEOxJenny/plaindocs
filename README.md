@@ -40,16 +40,10 @@ PlainDocs, JennyEcho, OmnipotentCeo, readme, readmes, guides, explainer, instruc
   - Sam Schechter and Nathan Hall, *Professional Writing in the Digital Age*, 2026, CC BY-NC-SA 4.0 (the seven Cs with clarity first, the steps for concise writing, and stating limits honestly).
 - The checklist is summarized in our own words; no text is copied at length. PlainDocs is independent and not endorsed by the authors.
 
-## Rob Domaine's four pillars
-1. Trustworthy, honest, real data, truthful: never invent features, steps or facts; unknowns are marked TO CONFIRM.
-2. Use only legitimate means: write from the user's own material and properly credited sources.
-3. Double-check everything: every document is checked against the checklist before it is called done.
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-
 ## Components
 - `skills/plaindocs-write`: write a plain-language document for a named reader.
 - `skills/plaindocs-check`: check a document against the checklist and suggest fixes.
-- `rules/pillars-and-scope.mdc`: the pillars and scope.
+- `rules/scope.mdc`: the scope.
 - `scripts/plaindocs_check.py`: an optional automatic first pass (standard library only).
 - `examples/`: a real before-and-after example.
 - `tests/`: front-matter check and functional checker test.
